@@ -1,0 +1,2 @@
+
+8fe01af330f26e9d51b60aaeb491acd40755316c	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/fsevents","integrity":null,"time":1753451482122,"size":"0","metadata":{"time":1753451482122,"url":"http://registry.npmjs.org/fsevents","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 25 Jul 2025 13:51:19 GMT","location":"https://registry.npmjs.org/fsevents","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

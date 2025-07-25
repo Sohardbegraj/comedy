@@ -1,0 +1,2 @@
+
+78b68e11f3961b089500df4f50a985ce6c0df09b	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@tailwindcss%2foxide-freebsd-x64","integrity":null,"time":1753452143275,"size":"0","metadata":{"time":1753452143275,"url":"http://registry.npmjs.org/@tailwindcss%2foxide-freebsd-x64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 25 Jul 2025 14:02:20 GMT","location":"https://registry.npmjs.org/@tailwindcss%2Foxide-freebsd-x64","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+1e39ac3a46c51a804f5002c9c1844537f7ecc682	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/chownr","integrity":null,"time":1753452152795,"size":"0","metadata":{"time":1753452152795,"url":"http://registry.npmjs.org/chownr","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 25 Jul 2025 14:02:29 GMT","location":"https://registry.npmjs.org/chownr","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

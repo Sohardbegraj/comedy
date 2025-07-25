@@ -1,0 +1,2 @@
+
+5e968fba6a7ab1c3d5d68e94adbde4a6d4096cee	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/fdir","integrity":null,"time":1753451482008,"size":"0","metadata":{"time":1753451482008,"url":"http://registry.npmjs.org/fdir","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 25 Jul 2025 13:51:19 GMT","location":"https://registry.npmjs.org/fdir","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

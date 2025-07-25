@@ -1,0 +1,2 @@
+
+7c48b238dce97e0bb78d5974487ba433825fe212	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@esbuild%2faix-ppc64","integrity":null,"time":1753451493542,"size":"0","metadata":{"time":1753451493542,"url":"http://registry.npmjs.org/@esbuild%2faix-ppc64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 25 Jul 2025 13:51:30 GMT","location":"https://registry.npmjs.org/@esbuild%2Faix-ppc64","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

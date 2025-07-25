@@ -1,0 +1,2 @@
+
+579bd764738aa2ab04dc58b7b56883f74e6d2d36	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@rollup%2frollup-darwin-x64","integrity":null,"time":1753451544095,"size":"0","metadata":{"time":1753451544095,"url":"http://registry.npmjs.org/@rollup%2frollup-darwin-x64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 25 Jul 2025 13:52:21 GMT","location":"https://registry.npmjs.org/@rollup%2Frollup-darwin-x64","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

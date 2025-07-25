@@ -1,0 +1,2 @@
+
+26a7e6370969d115261ef85ecdf1444d8ce10c56	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/tailwindcss/-/tailwindcss-4.1.11.tgz","integrity":null,"time":1753452154149,"size":"0","metadata":{"time":1753452154148,"url":"http://registry.npmjs.org/tailwindcss/-/tailwindcss-4.1.11.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 25 Jul 2025 14:02:31 GMT","location":"https://registry.npmjs.org/tailwindcss/-/tailwindcss-4.1.11.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

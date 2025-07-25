@@ -1,0 +1,2 @@
+
+0d496c1e2f05a00e7e90ab47a1b509e874ef59f4	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@esbuild%2fwin32-ia32","integrity":null,"time":1753451521046,"size":"0","metadata":{"time":1753451521046,"url":"http://registry.npmjs.org/@esbuild%2fwin32-ia32","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 25 Jul 2025 13:51:58 GMT","location":"https://registry.npmjs.org/@esbuild%2Fwin32-ia32","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+bb59e3847913c771a0d815f63b0cab29751850cb	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@esbuild%2flinux-arm","integrity":null,"time":1753451527700,"size":"0","metadata":{"time":1753451527699,"url":"http://registry.npmjs.org/@esbuild%2flinux-arm","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 25 Jul 2025 13:52:04 GMT","location":"https://registry.npmjs.org/@esbuild%2Flinux-arm","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}
