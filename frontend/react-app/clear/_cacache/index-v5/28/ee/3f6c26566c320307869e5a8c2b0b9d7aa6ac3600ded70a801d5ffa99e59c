@@ -1,0 +1,2 @@
+
+32eb5735cf040399762ff43dcf4ddb5449bd903d	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/chownr/-/chownr-3.0.0.tgz","integrity":null,"time":1753452154003,"size":"0","metadata":{"time":1753452154003,"url":"http://registry.npmjs.org/chownr/-/chownr-3.0.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 25 Jul 2025 14:02:31 GMT","location":"https://registry.npmjs.org/chownr/-/chownr-3.0.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

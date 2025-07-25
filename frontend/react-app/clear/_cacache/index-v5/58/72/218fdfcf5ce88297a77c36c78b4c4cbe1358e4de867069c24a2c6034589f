@@ -1,0 +1,2 @@
+
+7e9563b2b5f9f48eb575acecceac78006bb79e93	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/esquery/-/esquery-1.6.0.tgz","integrity":null,"time":1753451701669,"size":"0","metadata":{"time":1753451701669,"url":"http://registry.npmjs.org/esquery/-/esquery-1.6.0.tgz","reqHeaders":{},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 25 Jul 2025 13:54:58 GMT","location":"https://registry.npmjs.org/esquery/-/esquery-1.6.0.tgz","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+2222ff7beb066ac47fc73a388e1abb5cab450411	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@esbuild%2fandroid-x64","integrity":null,"time":1753451494422,"size":"0","metadata":{"time":1753451494421,"url":"http://registry.npmjs.org/@esbuild%2fandroid-x64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 25 Jul 2025 13:51:31 GMT","location":"https://registry.npmjs.org/@esbuild%2Fandroid-x64","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

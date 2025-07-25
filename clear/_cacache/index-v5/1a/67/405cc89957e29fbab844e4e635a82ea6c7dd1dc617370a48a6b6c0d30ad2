@@ -1,0 +1,2 @@
+
+6b412262150597b502f90bd579a0eae37d643ca6	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@esbuild%2flinux-ia32","integrity":null,"time":1753451544047,"size":"0","metadata":{"time":1753451544047,"url":"http://registry.npmjs.org/@esbuild%2flinux-ia32","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 25 Jul 2025 13:52:21 GMT","location":"https://registry.npmjs.org/@esbuild%2Flinux-ia32","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

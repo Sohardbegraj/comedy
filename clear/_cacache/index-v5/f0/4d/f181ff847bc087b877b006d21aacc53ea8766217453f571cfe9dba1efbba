@@ -1,0 +1,2 @@
+
+7ed9b870be4f1adeea2c82fdc988bc2c1fb8bfc8	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@esbuild%2fandroid-arm64","integrity":null,"time":1753451494440,"size":"0","metadata":{"time":1753451494439,"url":"http://registry.npmjs.org/@esbuild%2fandroid-arm64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 25 Jul 2025 13:51:31 GMT","location":"https://registry.npmjs.org/@esbuild%2Fandroid-arm64","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}

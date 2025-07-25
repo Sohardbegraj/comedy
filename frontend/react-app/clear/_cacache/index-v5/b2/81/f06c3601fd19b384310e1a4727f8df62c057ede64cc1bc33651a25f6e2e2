@@ -1,0 +1,2 @@
+
+ee26856f1104124f161c9fe0850a027e8203bc17	{"key":"make-fetch-happen:request-cache:http://registry.npmjs.org/@tailwindcss%2foxide-linux-x64-gnu","integrity":null,"time":1753452143469,"size":"0","metadata":{"time":1753452143468,"url":"http://registry.npmjs.org/@tailwindcss%2foxide-linux-x64-gnu","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/plain;charset=UTF-8","date":"Fri, 25 Jul 2025 14:02:20 GMT","location":"https://registry.npmjs.org/@tailwindcss%2Foxide-linux-x64-gnu","vary":"Accept-Encoding"},"options":{"compress":true},"status":301}}
